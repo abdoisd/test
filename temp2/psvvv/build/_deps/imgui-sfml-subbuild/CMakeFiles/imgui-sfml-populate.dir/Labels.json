@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/CMakeFiles/imgui-sfml-populate"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/CMakeFiles/imgui-sfml-populate.rule"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/CMakeFiles/imgui-sfml-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-build.rule"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-download.rule"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-install.rule"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-test.rule"
+		},
+		{
+			"file" : "/home/aisdaoun/push_swap/temp2/push_swap_visualizer/build/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-sfml-populate"
+		],
+		"name" : "imgui-sfml-populate"
+	}
+}
