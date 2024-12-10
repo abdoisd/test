@@ -102,7 +102,6 @@ void	main(int argc, char **argv)
 	parse_to_a_(a, b, argc, argv);
 	quick_sort_into_b_(a, b);
 	last_sort_into_a_(a, b);
-	print_stack_info(*a, "a");
 	free_a_and_b_(a, b);
 	exit(EXIT_SUCCESS);
 }

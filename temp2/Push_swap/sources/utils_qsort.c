@@ -52,7 +52,6 @@ void	quick_sort_into_b_(stack *a, stack *b)
 	int		avrg_value;
 
 	avrg_value = get_avrg_value_(*a); //I will try both, *a and a
-	printf("avg: %d\n", avrg_value);
 	if (q_sort_(a, b, avrg_value) == -1)
 		exit_(a, b);
 }
